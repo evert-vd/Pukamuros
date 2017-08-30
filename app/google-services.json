@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "831915434152",
+    "firebase_url": "https://pukamuros.firebaseio.com",
+    "project_id": "pukamuros",
+    "storage_bucket": "pukamuros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831915434152:android:fa1f3959d87898a6",
+        "android_client_info": {
+          "package_name": "com.evertvd.pukamuros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831915434152-f16sni5rsvd8or3d4bm6fpvtv1cn2kvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evertvd.pukamuros",
+            "certificate_hash": "68d5475dd3da89f247189855eb2212ddf8556b42"
+          }
+        },
+        {
+          "client_id": "831915434152-pl7gke1org562kc2shmuajvu8lk0p22d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAO2mVoH10Ae4hnh9_aVX6QhihWvAt9N4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831915434152-pl7gke1org562kc2shmuajvu8lk0p22d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
